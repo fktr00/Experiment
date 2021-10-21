@@ -1,2 +1,2 @@
-# kaggle
-My kaggle repository. Why not.
+# kaggle education
+My kaggle repository. skillfactory.ru education
