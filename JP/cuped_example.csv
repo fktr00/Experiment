@@ -1,0 +1,13 @@
+group,covariate,metric
+test,1500,1700
+control,1300,1200
+test,1600,2000
+control,1400,1500
+test,1200,1200
+control,1000,1100
+test,1500,2000
+control,1300,1500
+test,1600,1200
+control,1400,1100
+test,1200,1200
+control,1000,1000
