@@ -1,0 +1,62 @@
+ Том в устройстве C имеет метку Windows 10
+ Серийный номер тома: D0CD-CCF8
+
+ Содержимое папки C:\Users\user
+
+02.10.2022  09:55 PM (пп)    <DIR>          .
+02.10.2022  09:55 PM (пп)    <DIR>          ..
+24.05.2021  09:40 AM (дп)    <DIR>          .Albion Online Launcher
+29.09.2022  10:16 PM (пп)    <DIR>          .anaconda
+23.01.2022  10:51 AM (дп)    <DIR>          .android
+02.10.2022  10:06 PM (пп)               135 .bash_history
+02.10.2022  10:25 PM (пп)    <DIR>          .conda
+30.09.2022  01:17 AM (дп)                71 .condarc
+29.09.2022  10:15 PM (пп)    <DIR>          .continuum
+22.07.2021  01:04 PM (пп)    <DIR>          .cufflinks
+10.12.2020  01:41 PM (пп)    <DIR>          .eclipse
+02.07.2021  11:50 AM (дп)               173 .gitconfig
+02.10.2022  02:39 AM (дп)    <DIR>          .ipynb_checkpoints
+19.12.2020  08:23 AM (дп)    <DIR>          .ipython
+28.02.2021  08:35 PM (пп)    <DIR>          .junique
+30.09.2022  01:51 AM (дп)    <DIR>          .jupyter
+02.10.2022  12:02 AM (дп)                20 .lesshst
+21.02.2021  01:02 PM (пп)    <DIR>          .matplotlib
+20.02.2021  05:03 PM (пп)    <DIR>          .oracle_jre_usage
+15.01.2021  09:58 AM (дп)    <DIR>          .Origin
+15.01.2021  09:58 AM (дп)    <DIR>          .QtWebEngineProcess
+02.10.2022  01:03 AM (дп)    <DIR>          .spyder-py3
+02.10.2022  09:56 PM (пп)    <DIR>          .virtual_documents
+02.07.2021  12:37 PM (пп)    <DIR>          .vscode
+22.10.2020  09:10 PM (пп)    <DIR>          3D Objects
+02.10.2022  02:57 AM (дп)    <DIR>          anaconda3
+15.01.2021  10:42 AM (дп)    <DIR>          ansel
+19.06.2022  08:42 PM (пп)    <DIR>          BrawlhallaReplays
+22.10.2020  09:10 PM (пп)    <DIR>          Contacts
+17.03.2022  01:40 PM (пп)    <DIR>          curseforge
+02.10.2022  04:29 PM (пп)    <DIR>          Desktop
+02.10.2022  12:33 AM (дп)    <DIR>          Documents
+17.09.2022  03:46 PM (пп)    <DIR>          Downloads
+30.09.2022  01:53 AM (дп)    <DIR>          experiment-learn-memory
+22.10.2020  09:10 PM (пп)    <DIR>          Favorites
+16.09.2021  07:29 PM (пп)    <DIR>          Jupyter Notebook (Py)old
+26.07.2021  06:51 PM (пп)    <DIR>          Learn-for-project
+22.10.2020  09:10 PM (пп)    <DIR>          Links
+22.10.2020  09:10 PM (пп)    <DIR>          Music
+23.10.2020  12:27 AM (дп)    <DIR>          OneDrive
+17.09.2022  04:16 PM (пп)    <DIR>          Pictures
+17.09.2021  01:14 PM (пп)    <DIR>          Portfolio
+21.05.2021  09:26 PM (пп)    <DIR>          Saved Games
+15.07.2021  06:13 PM (пп)    <DIR>          seaborn-data
+22.10.2020  09:12 PM (пп)    <DIR>          Searches
+05.04.2022  09:34 AM (дп)    <DIR>          Tracing
+06.07.2021  06:08 PM (пп)    <DIR>          Training
+02.10.2022  09:03 PM (пп)           139 525 Untitled.ipynb
+01.10.2022  10:06 PM (пп)                20 untitled.txt
+23.10.2020  12:25 PM (пп)    <DIR>          Videos
+               6 файлов        139 944 байт
+
+ Содержимое папки C:\
+
+23.03.2021  11:39 PM (пп)               234 nsispromotion_log.txt
+               1 файлов            234 байт
+               0 папок  62 045 851 648 байт свободно
