@@ -1,3 +1,8 @@
-import autosklearn
+def myfunc(n):
+  return lambda a : a * n
 
-print(autosklearn.__version__)
+mydoubler = myfunc(2)
+mytripler = myfunc(3)
+
+print(mydoubler(11))
+print(mytripler(11))
