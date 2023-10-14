@@ -370,7 +370,7 @@ A&macr;
 ---
 
 ## Эмодзи (Github)
-Вы можете использовать эмодзи в своих Markdown-файлах.[Мини сайт для выбора эмодзи через браузер](https://github-emoji-picker.rickstaa.dev/) [Существует множество эмодзи](https://gist.github.com/rxaviers/7360908), которые вы можете использовать, вот некоторые из них:
+Вы можете использовать эмодзи в своих Markdown-файлах.[Мини сайт для выбора эмодзи через браузер](https://github-emoji-picker.rickstaa.dev/), Официальный сайт [github](https://www.webfx.com/tools/emoji-cheat-sheet/) [Существует множество эмодзи](https://gist.github.com/rxaviers/7360908), которые вы можете использовать, вот некоторые из них:
 ```
 :smile:
 :laughing:
