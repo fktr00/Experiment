@@ -1,3 +1,6 @@
+https://github-emoji-picker.rickstaa.dev/
+https://www.webfx.com/tools/emoji-cheat-sheet/
+
 People
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
