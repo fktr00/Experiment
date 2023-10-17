@@ -5,7 +5,7 @@
         - 3 Tests Print Type help
         - 4 pprint()
         - 5 Installing Python packages
-        - 
+        - 6 Operation order
     -Markdown.md
         -Руководство по Markdown 
     -Pandas.ipynb
