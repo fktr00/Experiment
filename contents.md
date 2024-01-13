@@ -6,9 +6,13 @@
         - 4 pprint()
         - 5 Installing Python packages
         - 6 Operation order
-    -Markdown.md
-        -Руководство по Markdown 
-    -Pandas.ipynb
+    -markdown.md
+        -Руководство по Markdown
+    -math.ipynb 
+    -pandas.ipynb
         - 1 install pandas
-        - 2 __version__
+        - 2 seaborn.load_dataset
+        - 3 __version__
+        - 4 Полный анализ
+        - 5 Предпросмотр df
 # SQL
