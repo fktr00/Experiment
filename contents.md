@@ -15,4 +15,5 @@
         - 3 __version__
         - 4 Полный анализ
         - 5 Предпросмотр df
+    -test.py script
 # SQL
