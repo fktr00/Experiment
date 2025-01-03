@@ -43,7 +43,7 @@ def walk(arg,dir,files):
 os.path.walk('.',walk,[])
 
 # 2) как открыть файлы из списка?
-
+# 
 import os
 # Каталог из которого будем брать файлы
 directory = 'F:\\python\\test'
